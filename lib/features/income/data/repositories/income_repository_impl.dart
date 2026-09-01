@@ -132,7 +132,6 @@ class IncomeRepositoryImpl implements IncomeRepository {
     try {
       final local = await localDataSource.getIncome(entity.localId);
       if (local == null) return Left(CacheFailure("Not found"));
-
       local
         ..amount = entity.amount
         ..title = entity.title
