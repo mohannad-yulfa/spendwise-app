@@ -138,9 +138,6 @@ This approach helps the application handle local changes and synchronize them wi
 ---
 
 ## 📸 Screenshots
-
-https://github.com/user-attachments/assets/10894eef-d079-4791-aeb4-f4c81c7e6840
-
 <img width="4085" height="6113" alt="spendwiseUi_UX pdf" src="https://github.com/user-attachments/assets/c2415424-5c2b-42c5-b5a9-acf72ab03f7a" />
 
 
